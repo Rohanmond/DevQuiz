@@ -2,6 +2,7 @@
 @import url("./doc_style/doc_landing.css");
 @import url("./pages/home/home.css");
 @import url("./pages/quiz_rules/quiz_rules.css");
+@import url("./pages/quiz_question/quiz_question.css");
 
 body {
   background: #0c0d13;
