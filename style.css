@@ -1,6 +1,7 @@
 @import url("https://glex-ui.vercel.app/component.css");
 @import url("./doc_style/doc_landing.css");
 @import url("./pages/home/home.css");
+@import url("./pages/quiz_rules/quiz_rules.css");
 
 body {
   background: #0c0d13;
