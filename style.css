@@ -3,6 +3,7 @@
 @import url("./pages/home/home.css");
 @import url("./pages/quiz_rules/quiz_rules.css");
 @import url("./pages/quiz_question/quiz_question.css");
+@import url("./pages/quiz_result/quiz_result.css");
 
 body {
   background: #0c0d13;
