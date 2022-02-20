@@ -9,8 +9,7 @@
   width: 100%;
 }
 .home-header {
-  padding: 1rem;
-  color: var(--text-secondary-color);
+  color: var(--yellow-200);
 }
 .home-buttons {
   display: flex;
