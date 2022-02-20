@@ -1,14 +1,12 @@
-.nav-search {
-  width: 40rem;
-}
 .landing-main-image {
-  max-width: 25rem;
+  max-width: 22rem;
 }
-@media screen and (max-width: 1000px) {
-  .nav-search {
-    width: 25rem;
-  }
+.nav-link-item .login-btn {
+  padding: 0.5rem 1rem;
+  color: white;
+  margin: 0 0.5rem;
 }
+
 .landing-container {
   display: flex;
   flex-direction: column;
