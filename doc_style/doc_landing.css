@@ -6,6 +6,9 @@
   color: white;
   margin: 0 0.5rem;
 }
+.nav-link-item .login-btn:hover {
+  color: var(--white-color);
+}
 
 .landing-container {
   display: flex;
