@@ -10,7 +10,14 @@
   --text-color: var(--white-color);
   --secondary-background: #0d1d31;
 }
-
+@media screen and (max-width: 750px) {
+  body {
+    max-width: 80vh;
+  }
+  :root {
+    font-size: 10px;
+  }
+}
 body {
   background: #0c0d13;
   color: var(--grey-200);
