@@ -18,7 +18,7 @@
 }
 .home-cat-button {
   padding: 1rem 2rem;
-  font-weight: 500;
+  font-weight: 600;
   font-size: 1.2rem;
   background-color: #0c0d13;
   color: var(--grey-200);
@@ -29,6 +29,7 @@
 .home-cat-button:nth-of-type(1):hover {
   background-color: var(--success-color);
   color: var(--grey-200);
+  border-radius: 0.25rem;
 }
 .home-cat-button:nth-of-type(2) {
   color: var(--yellow-600);
@@ -36,6 +37,7 @@
 .home-cat-button:nth-of-type(2):hover {
   background-color: var(--yellow-600);
   color: var(--grey-200);
+  border-radius: 0.25rem;
 }
 .home-cat-button:nth-of-type(3) {
   color: var(--danger-color);
@@ -43,6 +45,7 @@
 .home-cat-button:nth-of-type(3):hover {
   background-color: var(--danger-color);
   color: var(--grey-200);
+  border-radius: 0.25rem;
 }
 .home-cat-button:active {
   transform: scale(0.98);
