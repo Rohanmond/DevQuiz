@@ -1,3 +1,6 @@
+
+
+
 ## [DevQuiz](https://dev-quiz-glex.netlify.app/)
 
 ### Introduction -
@@ -19,3 +22,5 @@ DevQuiz is a Quiz app, having quizzes on programming concepts specially on front
 
 
 ### Demo - 
+
+https://user-images.githubusercontent.com/52956782/154899148-39f6ba02-4598-415a-b2d8-8aed3cf5d2b7.mov
