@@ -1,7 +1,7 @@
 ## [DevQuiz](https://dev-quiz-glex.netlify.app/)
 
 ### Introduction -
-DevQuiz is having quizzes on programming concepts specially on front-end part.
+DevQuiz is a Quiz app, having quizzes on programming concepts specially on front-end part.
 
 
 ### Features - 
